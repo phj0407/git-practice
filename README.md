@@ -17,6 +17,8 @@ $ git commit -m "test issue #1"
 $ git push origin issue_test
 ```
 
+## add example
+
 ### 3. Pull Request with conflict (resolve with web editor)  
 [conflict_branch] -> [modify_about_merge]  
 
